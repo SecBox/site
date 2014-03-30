@@ -8,6 +8,11 @@ jQuery.each(jQuery.browser,function(i,d){
 });
 
 // ************************ //
+// Mailchimp
+// ************************ //
+
+
+// ************************ //
 // Phone Owl Carousel Configuration - Phone Slider
 // ************************ //
 $(document).ready(function() {
