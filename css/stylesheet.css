@@ -92,18 +92,18 @@ section .w_btn:hover, footer .w_btn:hover {
     -o-transition:.1s all ease-in-out;
 }
 section .b_btn {
-    background:white;
+    background: #126789;
     font-family:"Montserrat", sans-serif;
     padding:12px 21px;
     font-size:13px;
-    color:#121415;
+    color:#fff;
     border-radius:4px;
     display:inline-block;
     text-transform:uppercase;
 }
 section .b_btn:hover {
     background:#dde2e5;
-    color:#121415;
+    color:#fff;
     transition:.1s all ease-in-out;
     -webkit-transition:.1s all ease-in-out;
     -moz-transition:.1s all ease-in-out;
@@ -523,7 +523,7 @@ bottom:-35px;
 Newsletter
 ---------------------------- */
 section.newsletter {
-    background: #126789;
+    background: #fff;
     /* background:url(../img/newsletter-bg.jpg) top center no-repeat; */
     background-size:cover;
 }
@@ -534,23 +534,24 @@ section.newsletter form {
     margin-top:13px;
 }
 section.newsletter h1, section.newsletter h2 {
-    color:white;
+    color:#126789;
     text-align:left;
 }
 section.newsletter h2 {
     font-size:22px;
 }
 section.newsletter input {
-    background:rgba(217,222,226,0.5);
+    background:white;
     border-radius:5px;
     padding:12px 16px;
     font-size:12px;
     text-transform:uppercase;
     border:0;
-    color:#fff;
+    color:#126789;
     width:500px;
     margin-right:8px;
     font:12px "Montserrat", sans-serif;
+    border-bottom: 1px solid #126789;
 }
 section.newsletter button {
     border:none;
@@ -576,25 +577,25 @@ Footer
 footer {
     padding:69px 0 59px;
     text-align:center;
-    background:#fff;
+    background:#126789;
 }
 footer .text-logo {
     margin-right:20px;
     position:relative;
     bottom:-3px;
-    color:#126789 !important;
+    color:#fff !important;
 }
 footer .social_media {
     padding:40px 0 26px;
-    color:#126789;
+    color:#fff;
 }
 footer .social_media i {
     margin:0 19px;
     font-size:30px;
-    color:#126789;
+    color:#fff;
 }
 footer p {
-    color:#126789;
+    color:#fff;
 }
 
 section {
