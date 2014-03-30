@@ -19,7 +19,7 @@ body {
     position:relative;
     font-family:"Roboto", sans-serif;
     z-index:5;
-    background:#171a20;
+    background:#126789;
 }
 a {text-decoration:none;}
 a:hover {
@@ -42,7 +42,6 @@ Buttons
     font-family:"Montserrat", sans-serif;
     padding:12px 21px;
     font-size:13px;
-    color:#121415;
     border-radius:4px;
     display:inline-block;
     text-transform:uppercase;
